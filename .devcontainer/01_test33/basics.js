@@ -6,4 +6,3 @@ accountcity = "jaipur"
 // accountId = 2
 
 console.log(accountId);
-no
